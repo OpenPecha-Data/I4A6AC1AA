@@ -1,0 +1,23 @@
+id: I4A6AC1AA
+initial_creation_type: ebook
+source_metadata:
+  id: KS-GP-01
+  title: ༄༅། །ཚོགས་ཆོས་བཀྲ་ཤིས་ཕུན་ཚོགས་བཞུགས་སོ། །
+  author: མཛད་པ་པོ། སྒམ་པོ་པ་བསོད་ནམས་རིན་ཆེན།
+  authors: &id001
+  - མཛད་པ་པོ། སྒམ་པོ་པ་བསོད་ནམས་རིན་ཆེན།
+  sku: KS-GP-01
+  cover: KS-GP-01.jpg
+  volume: {}
+ebook_metadata:
+  title: ༄༅། །ཚོགས་ཆོས་བཀྲ་ཤིས་ཕུན་ཚོགས་བཞུགས་སོ། །
+  authors: *id001
+  sku: KS-GP-01
+  cover: KS-GP-01.jpg
+layers:
+- Author
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Sabche
